@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(156, 146, 165);
+}
+#topo {
+    background: rgb(2,0,36);
+    background-color: rgb(156, 146, 165);
+    text-align: center;
+}
+#menu ul {
+    background-color: rgb(157, 145, 168);
+    display: flex;
+    justify-content: center;
+
+    
+}
+.destaques, .produtos, .sobre, .contato{
+    background-color: rgb(156, 142, 168);
+}
+#rodape {
+    background-color: rgb(156, 143, 165);
+
+}
+
+#menu li {
+    width: 150px;
+}
+
+#rodape ul {
+    display: flex;
+    justify-content: center;
+}
+#rodape li {
+    width: 150px;
+}
+
+#rodape p {
+    text-align: center;
+}
